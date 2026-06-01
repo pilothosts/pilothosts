@@ -148,7 +148,8 @@ A **trial license** is available — contact us at [support@pilothosts.com](mail
 
 ## Screenshots
 
-> *(Coming soon)*
+<img width="2557" height="1438" alt="overview" src="https://github.com/user-attachments/assets/ad0f8f6d-0fd2-41ba-8687-68d48aa8d890" />
+
 
 ---
 
