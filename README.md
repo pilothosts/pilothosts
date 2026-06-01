@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://www.pilothosts.com/newlogo/pilothosts_logo_dark.svg" alt="PilotHosts Logo" width="200" />
+<img src="https://www.pilothosts.com/assets/logo.png" alt="PilotHosts Logo" width="180" />
 
-**Enterprise VMware Management Appliance**
+# PilotHosts
 
-Manage, monitor, and automate your vCenter, ESXi hosts, and virtual machines — deployed as a self-contained OVA inside your own infrastructure.
+**Enterprise VMware & Kubernetes Management Appliance**
+
+Manage, monitor, and automate your vCenter, ESXi hosts, virtual machines, and Kubernetes clusters — deployed as a self-contained OVA inside your own infrastructure.
 
 [![License](https://img.shields.io/badge/license-Commercial-blue.svg)](https://www.pilothosts.com)
 [![Website](https://img.shields.io/badge/website-pilothosts.com-blue)](https://www.pilothosts.com)
@@ -16,7 +18,7 @@ Manage, monitor, and automate your vCenter, ESXi hosts, and virtual machines —
 
 ## What is PilotHosts?
 
-PilotHosts is an **on-premises VMware management appliance** that gives IT teams full visibility and control over their vCenter/ESXi environments — without sending data to the cloud.
+PilotHosts is an **on-premises VMware & Kubernetes management appliance** that gives IT teams full visibility and control over their vCenter/ESXi environments and Kubernetes clusters — without sending data to the cloud.
 
 Deploy the OVA once. No agents. No SaaS subscriptions. No data leaving your network.
 
@@ -70,6 +72,14 @@ Deploy the OVA once. No agents. No SaaS subscriptions. No data leaving your netw
 - **VM Console** — browser-based VM console (WebMKS)
 - **VM Create Wizard** — guided VM provisioning from templates
 - **Deployments** — track VM and bare metal deployment workflows
+
+### Kubernetes Visibility
+- **Cluster Management** — connect and monitor multiple Kubernetes clusters
+- **Node Status** — real-time node health, resource usage, ready/not-ready state
+- **Pod Monitoring** — pod status, crashloop detection, failed pod alerts
+- **Namespace Overview** — resource usage and quota tracking per namespace
+- **Workload Health** — deployment, daemonset, statefulset health monitoring
+- **K8s Alerts** — notifications for node failures, pod crashes, quota warnings
 
 ### Notifications & Integrations
 - **Email Alerts** — SMTP-based alerts for CPU, RAM, storage, VM state changes
