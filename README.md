@@ -2,8 +2,6 @@
 
 <img src="https://www.pilothosts.com/newlogo/pilothosts_logo_dark.svg" alt="PilotHosts Logo" width="200" />
 
-# PilotHosts
-
 **Enterprise VMware Management Appliance**
 
 Manage, monitor, and automate your vCenter, ESXi hosts, and virtual machines — deployed as a self-contained OVA inside your own infrastructure.
