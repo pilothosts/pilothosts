@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://www.pilothosts.com/newlogo/pilothosts_logo_dark.svg" alt="PilotHosts Logo" width="180" />
+<img src="https://www.pilothosts.com/newlogo/pilothosts_logo_dark.svg" alt="PilotHosts Logo" width="200" />
 
-# PilotHosts
 
 **Enterprise VMware & Kubernetes Management Appliance**
 
@@ -119,12 +118,15 @@ No internet connection required after deployment. All data stays on-premises.
 
 ## Requirements
 
-| Resource | Minimum | Recommended |
+| Size | Environment | vCPU | RAM | Disk |
+|---|---|---|---|---|
+| Small | 1 vCenter / <100 VMs | 2 | 8 GB | 60 GB |
+| Medium | 1–5 vCenter / <1000 VMs | 4 | 16 GB | 60 GB |
+| Large | 5+ vCenter / <10000 VMs | 8 | 32 GB | 60 GB |
+
+| | Minimum | Recommended |
 |---|---|---|
-| vCPU | 2 | 4 |
-| RAM | 4 GB | 8 GB |
-| Disk | 40 GB | 60 GB |
-| vCenter | 6.7+ | 7.0 / 8.0 |
+| vCenter | 7.0 | 7.0 / 8.0 |
 
 ---
 
