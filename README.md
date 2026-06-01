@@ -4,11 +4,13 @@
 
 PilotHosts is a commercial on-prem appliance for VMware/vSphere day-2 operations.
 
-This repository is used for public documentation, release notes and issue tracking.
-The source code is not published here.
-PilotHosts is not affiliated with VMware or Broadcom.
+This public repository is used for documentation, release notes, issue tracking and public product information.
 
-**Enterprise VMware & Kubernetes Management Appliance**
+The source code is not published here.
+
+PilotHosts is not open-source and is not affiliated with VMware, Broadcom, Kubernetes or the CNCF.
+
+**On-Prem Operations Appliance for VMware/vSphere and Kubernetes**
 
 Manage, monitor, and automate your vCenter, ESXi hosts, virtual machines, and Kubernetes clusters — deployed as a self-contained OVA inside your own infrastructure.
 
@@ -22,7 +24,7 @@ Manage, monitor, and automate your vCenter, ESXi hosts, virtual machines, and Ku
 
 ## What is PilotHosts?
 
-PilotHosts is an **on-premises VMware & Kubernetes management appliance** that gives IT teams full visibility and control over their vCenter/ESXi environments and Kubernetes clusters — without sending data to the cloud.
+PilotHosts is an **on-premises VMware & Kubernetes management appliance** that helps IT teams improve visibility and operational control over their vCenter/ESXi environments and Kubernetes clusters — without sending data to the cloud.
 
 Deploy the OVA once. No agents. No SaaS subscriptions. No data leaving your network.
 
