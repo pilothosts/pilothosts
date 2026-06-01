@@ -4,16 +4,15 @@
 
 PilotHosts is a commercial on-prem appliance for VMware/vSphere day-2 operations.
 
-This public repository is used for documentation, release notes, issue tracking and public product information.
+This public repository is used for documentation, release notes, issue tracking, and public product information.
 
 The source code is not published here.
 
-PilotHosts is not open-source and is not affiliated with VMware, Broadcom, Kubernetes or the CNCF.
+PilotHosts is not open-source and is not affiliated with VMware, Broadcom, Kubernetes, or the CNCF.
 
-**On-Prem Operations Appliance for VMware/vSphere and Kubernetes**
+On-Prem Day-2 Operations Appliance for VMware/vSphere
 
-Manage, monitor, and automate your vCenter, ESXi hosts, virtual machines, and Kubernetes clusters — deployed as a self-contained OVA inside your own infrastructure.
-
+PilotHosts helps infrastructure teams improve operational visibility, governance, and automation across vCenter, ESXi hosts, virtual machines, and selected Kubernetes environments — deployed as a self-contained OVA inside your own infrastructure.
 [![License](https://img.shields.io/badge/license-Commercial-blue.svg)](https://www.pilothosts.com)
 [![Website](https://img.shields.io/badge/website-pilothosts.com-blue)](https://www.pilothosts.com)
 [![Support](https://img.shields.io/badge/support-support%40pilothosts.com-blue)](mailto:support@pilothosts.com)
@@ -24,9 +23,9 @@ Manage, monitor, and automate your vCenter, ESXi hosts, virtual machines, and Ku
 
 ## What is PilotHosts?
 
-PilotHosts is an **on-premises VMware & Kubernetes management appliance** that helps IT teams improve visibility and operational control over their vCenter/ESXi environments and Kubernetes clusters — without sending data to the cloud.
+PilotHosts is an on-premises VMware/vSphere day-2 operations appliance that helps infrastructure teams improve visibility, governance, and operational control across vCenter, ESXi hosts, virtual machines, and selected Kubernetes environments — without sending operational data to the cloud.
 
-Deploy the OVA once. No agents. No SaaS subscriptions. No data leaving your network.
+Deploy the OVA inside your own infrastructure. No agents required. No SaaS dependency. No infrastructure data leaving your network.
 
 ---
 
@@ -81,7 +80,7 @@ Deploy the OVA once. No agents. No SaaS subscriptions. No data leaving your netw
 
 ### Kubernetes Visibility
 - **Cluster Management** — connect and monitor multiple Kubernetes clusters
-- **Node Status** — real-time node health, resource usage, ready/not-ready state
+- **Node Status** — regularly synced node health, resource usage, ready/not-ready state
 - **Pod Monitoring** — pod status, crashloop detection, failed pod alerts
 - **Namespace Overview** — resource usage and quota tracking per namespace
 - **Workload Health** — deployment, daemonset, statefulset health monitoring
