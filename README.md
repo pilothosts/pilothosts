@@ -2,6 +2,11 @@
 
 <img src="https://www.pilothosts.com/newlogo/pilothosts_logo_dark.svg" alt="PilotHosts Logo" width="200" />
 
+PilotHosts is a commercial on-prem appliance for VMware/vSphere day-2 operations.
+
+This repository is used for public documentation, release notes and issue tracking.
+The source code is not published here.
+PilotHosts is not affiliated with VMware or Broadcom.
 
 **Enterprise VMware & Kubernetes Management Appliance**
 
