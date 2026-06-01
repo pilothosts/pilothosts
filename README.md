@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.pilothosts.com/newlogo/pilothosts_logo_dark.svg" alt="PilotHosts Logo" width="120" />
+<img src="https://www.pilothosts.com/newlogo/pilothosts_logo_dark.svg" alt="PilotHosts Logo" width="200" />
 
 # PilotHosts
 
