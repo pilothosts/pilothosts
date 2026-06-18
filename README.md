@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.pilothosts.com/newlogo/pilothosts_logo_dark.svg" alt="PilotHosts Logo" width="200" />
+<img src="https://www.pilothosts.com/newlogo/pilothosts_logo_light.svg" alt="PilotHosts Logo" width="200" />
 
 PilotHosts is a commercial on-prem appliance for VMware/vSphere day-2 operations.
 
