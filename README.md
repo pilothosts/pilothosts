@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.pilothosts.com/newlogo/pilothosts_logo_dark.svg" alt="PilotHosts Logo" width="200" />
+<img src="https://www.pilothosts.com/newlogo/pilothosts_logo_light.svg" alt="PilotHosts Logo" width="200" />
 
 PilotHosts is a commercial on-prem appliance for VMware/vSphere day-2 operations.
 
@@ -110,28 +110,17 @@ No internet connection required after deployment. All data stays on-premises.
 
 ---
 
-## Tech Stack
-
-| Component | Technology |
-|---|---|
-| Backend | Python / Flask / Gunicorn |
-| Database | PostgreSQL + TimescaleDB |
-| Cache | Redis |
-| Web Server | Nginx |
-| Deployment | OVA (VMware compatible) |
-
----
-
 ## Requirements
 
 | Size | Environment | vCPU | RAM | Disk |
 |---|---|---|---|---|
+| Small | Trial / evaluation, ≤1 vCenter, <200 VMs | 4 | 8 GB | 60 GB |
 | Medium | 1–5 vCenter / <1000 VMs | 4 | 16 GB | 250 GB |
 | Large | 5+ vCenter / <10000 VMs | 8 | 32 GB | 250 GB |
 
 | | Minimum | Recommended |
 |---|---|---|
-| vCenter | 7.0 | 7.0 / 8.0 |
+| vCenter / ESXi | 7.0 (Tech Guidance only) | 8.0 |
 
 ---
 
@@ -145,14 +134,10 @@ A **trial license** is available — contact us at [support@pilothosts.com](mail
 
 ## Support & Community
 
-- **Documentation:** [docs.pilothosts.com](https://docs.pilothosts.com)
+- **Documentation:** [pilothosts.com/docs](https://www.pilothosts.com/docs/)
 - **Bug Reports & Feature Requests:** [GitHub Issues](https://github.com/pilothosts/pilothosts/issues)
 - **Email:** [support@pilothosts.com](mailto:support@pilothosts.com)
 - **Website:** [www.pilothosts.com](https://www.pilothosts.com)
-
----
-
-
 
 ---
 
