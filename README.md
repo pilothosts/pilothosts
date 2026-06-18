@@ -47,7 +47,7 @@ PilotHosts is an on-premises VMware/vSphere day-2 operations appliance that help
 Deploy the OVA inside your own infrastructure. No agents. No SaaS dependency. No infrastructure data ever leaves your network.
 
 <div align="center">
-<img src="https://www.pilothosts.com/assets/hybrid-architecture-diagram-dark.svg" alt="PilotHosts hybrid infrastructure architecture diagram" width="760">
+<img src="https://www.pilothosts.com/assets/hybrid-architecture-diagram.svg" alt="PilotHosts hybrid infrastructure architecture diagram" width="760">
 </div>
 
 ## At a Glance
