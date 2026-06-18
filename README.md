@@ -114,7 +114,6 @@ No internet connection required after deployment. All data stays on-premises.
 
 | Size | Environment | vCPU | RAM | Disk |
 |---|---|---|---|---|
-| Small | Trial / evaluation, ≤1 vCenter, <200 VMs | 4 | 8 GB | 60 GB |
 | Medium | 1–5 vCenter / <1000 VMs | 4 | 16 GB | 250 GB |
 | Large | 5+ vCenter / <10000 VMs | 8 | 32 GB | 250 GB |
 
