@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://www.pilothosts.com/newlogo/pilothosts_logo_light.svg" alt="PilotHosts Logo" width="200" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.pilothosts.com/newlogo/pilothosts_logo_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://www.pilothosts.com/newlogo/pilothosts_logo_light.svg">
+    <img src="https://www.pilothosts.com/newlogo/pilothosts_logo_light.svg" alt="PilotHosts Logo" width="200">
+  </picture>
 
 # Changelog
 
