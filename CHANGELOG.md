@@ -14,6 +14,10 @@ This project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [v1.0.1] — 2026-06-29
+- Refreshed UI/UX across the appliance interface for a cleaner, more consistent experience.
+- Resolved several bug fixes improving overall stability and reliability.
+
 ## [v1.0.0] — 2026-06-01
 
 **Initial Release**
