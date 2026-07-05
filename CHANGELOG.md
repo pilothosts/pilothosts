@@ -18,6 +18,12 @@ This project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [v1.0.4] — 2026-07-03
+- Resolved several bug fixes improving overall stability and reliability.
+
+## [v1.0.3] — 2026-07-02
+- Resolved several bug fixes improving overall stability and reliability.
+
 ## [v1.0.2] — 2026-07-01
 - Licenses Page — Renewal Guidance: A brief renewal reminder has been added below the license holder name, explaining the 7-day grace period and recommending renewal at least 30 days before expiry to avoid any service interruption.
 - Licenses Page — Visual Polish: Typography and layout across the Licenses page have been refined: stat values (expiry date, host usage, license type, support, license key) now use consistent font weight and size, improving readability and visual balance in both light and dark themes.
