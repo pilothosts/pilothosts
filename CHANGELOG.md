@@ -18,6 +18,24 @@ This project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [v1.1.0] — 2026-06-01
+
+**Initial Release**
+
+### What's New
+- Protection dashboard: a new Data Protection section showing backup coverage, freshness, ransomware/malware scan status, job health, and repository capacity at a glance.
+- Unprotected VMs report: instantly see which VMs were never backed up or have stale backups, with datacenter and cluster context.
+- Backup Jobs view: full job list with schedule, last run result, retention policy, assigned proxy, and a drill-down into each job's backup chain and contents.
+- Backup SLA compliance: define policies (max RPO, minimum restore points, required success) and see exactly which VMs are in or out of compliance.
+- Veeam Proxy Sizing: calculates the backup proxy capacity your environment actually needs from real protected data volume and measured change rate, -compares it to what's deployed, and flags when more capacity is required.
+- Add to a backup job during VM creation: new VMs can be assigned to an existing Veeam backup job right from the deploy wizard, so nothing goes live unprotected.
+- Pilot Assistant now answers backup questions: ask about unprotected VMs, recent backup failures, or SLA status alongside your VMware and Kubernetes questions.
+
+### Improvements
+- Cost & Waste Insights: the Protection page now surfaces newly-added unprotected VMs, zombie VMs still consuming backup license and storage, and stuck Veeam snapshots.
+- Immutable Backups view: shows ransomware-protection coverage per VM and per repository.
+- Backup proxy visibility: each backup job now shows which proxy it runs on, including when it's falling back to the built-in default proxy.
+
 ## [v1.0.4] — 2026-07-03
 - Resolved several bug fixes improving overall stability and reliability.
 
@@ -39,13 +57,13 @@ This project follows [Semantic Versioning](https://semver.org/).
 
 **Initial Release**
 
-### ✨ New Features
+### New Features
 - Initial PilotHosts appliance release for hybrid VMware, Kubernetes and OpenShift visibility
 - VMware vCenter inventory, host and VM metrics, snapshot visibility and cleanup workflows
 - Read-only Kubernetes and OpenShift context for health, inventory and risk reporting
 - Local appliance deployment with API-based integrations and encrypted credentials
 
-### 🔒 Security
+### Security
 - Data stays on premises inside the PilotHosts appliance
 - Integrations use official APIs and do not require agents on managed platforms
 
