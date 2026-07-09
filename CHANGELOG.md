@@ -18,7 +18,7 @@ This project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
-## [v1.1.0] — 2026-06-01
+## [v1.1.0] — 2026-07-07
 
 **Initial Release**
 
