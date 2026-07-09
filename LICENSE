@@ -1,0 +1,46 @@
+PilotHosts — Proprietary License Notice
+========================================
+
+Copyright (c) PilotHosts. All rights reserved.
+
+This repository contains documentation, release notes, and issue tracking
+for PilotHosts, a commercial, closed-source software appliance. It does
+NOT contain the PilotHosts product source code.
+
+No Open Source License Granted
+-------------------------------
+Nothing in this repository is licensed under an open-source license (MIT,
+Apache, GPL, or otherwise). The presence of this repository on a public
+hosting platform does not grant any right to use, copy, modify, distribute,
+reverse-engineer, or create derivative works of the PilotHosts software.
+
+Using PilotHosts
+-----------------
+Use of the PilotHosts appliance is governed exclusively by the End User
+License Agreement (EULA) accepted at installation and/or the commercial
+license agreement executed between you and PilotHosts. Those terms control
+in full; nothing in this repository modifies, supersedes, or expands them.
+
+A valid commercial license, obtained at https://www.pilothosts.com, is
+required to deploy or operate the PilotHosts appliance beyond any trial
+period explicitly granted to you.
+
+Documentation Content
+-----------------------
+The documentation, diagrams, and release notes in this repository may be
+viewed and referenced for the purpose of evaluating or operating a
+properly licensed PilotHosts deployment. They may not be republished,
+redistributed, or used to build a competing product or service.
+
+Trademarks
+-----------
+"PilotHosts" and the PilotHosts logo are trademarks of PilotHosts. VMware,
+vCenter, ESXi, and vSphere are trademarks of Broadcom Inc. Veeam is a
+trademark of Veeam Software. Kubernetes and the Kubernetes logo are
+registered trademarks of the Linux Foundation. PilotHosts is not
+affiliated with, endorsed by, or sponsored by any of the above.
+
+Questions
+----------
+For licensing questions, contact support@pilothosts.com or visit
+https://www.pilothosts.com.
