@@ -11,7 +11,7 @@
 All notable changes to PilotHosts are documented here.
 This project follows [Semantic Versioning](https://semver.org/) and the [Keep a Changelog](https://keepachangelog.com/) format.
 
-[![Latest Release](https://img.shields.io/badge/LATEST-v1.1.0-3b82f6?style=for-the-badge&labelColor=0f172a)](https://www.pilothosts.com/release/)
+[![Latest Release](https://img.shields.io/badge/LATEST-v1.1.1-3b82f6?style=for-the-badge&labelColor=0f172a)](https://www.pilothosts.com/release/)
 [![Full Release Notes](https://img.shields.io/badge/FULL%20NOTES-pilothosts.com%2Frelease-1f2937?style=flat-square)](https://www.pilothosts.com/release/)
 
 </div>
