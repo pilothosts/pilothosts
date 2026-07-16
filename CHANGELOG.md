@@ -26,6 +26,12 @@ This project follows [Semantic Versioning](https://semver.org/) and the [Keep a 
 
 ---
 
+## v1.1.1
+<sub>Released 2026-07-15 · Patch Release</sub>
+
+### 🐛 Fixed
+- Fixed a report page crash caused by comparing timezone-aware and timezone-naive timestamps.Various UI/UX improvements.
+
 ## v1.1.0
 <sub>Released 2026-07-07 · Feature Release</sub>
 
