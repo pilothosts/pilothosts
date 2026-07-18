@@ -20,7 +20,7 @@ This project follows [Semantic Versioning](https://semver.org/) and the [Keep a 
 
 <div align="center">
 
-**[v1.1.1](#v111)** · **[v1.1.0](#v110)** · **[v1.0.4](#v104)** · **[v1.0.3](#v103)** · **[v1.0.2](#v102)** · **[v1.0.1](#v101)** · **[v1.0.0](#v100)**
+**[v1.1.1](#v112)** ·**[v1.1.1](#v111)** · **[v1.1.0](#v110)** · **[v1.0.4](#v104)** · **[v1.0.3](#v103)** · **[v1.0.2](#v102)** · **[v1.0.1](#v101)** · **[v1.0.0](#v100)**
 
 </div>
 
@@ -28,7 +28,7 @@ This project follows [Semantic Versioning](https://semver.org/) and the [Keep a 
 
 ## v1.1.2
 <sub>Released 2026-07-15 · Patch Release</sub>
-### New Features
+### ✨ New Features
 - VM Summary now shows every Veeam backup job protecting a VM, with a job switcher and a job count, instead of a single job.
 - VM Timeline gained a Data Protection filter, so Veeam backup activity can be viewed on its own.
 
