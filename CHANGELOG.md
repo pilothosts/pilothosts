@@ -11,7 +11,7 @@
 All notable changes to PilotHosts are documented here.
 This project follows [Semantic Versioning](https://semver.org/) and the [Keep a Changelog](https://keepachangelog.com/) format.
 
-[![Latest Release](https://img.shields.io/badge/LATEST-v1.1.1-3b82f6?style=for-the-badge&labelColor=0f172a)](https://www.pilothosts.com/release/)
+[![Latest Release](https://img.shields.io/badge/LATEST-v1.1.2-3b82f6?style=for-the-badge&labelColor=0f172a)](https://www.pilothosts.com/release/)
 [![Full Release Notes](https://img.shields.io/badge/FULL%20NOTES-pilothosts.com%2Frelease-1f2937?style=flat-square)](https://www.pilothosts.com/release/)
 
 </div>
@@ -26,6 +26,21 @@ This project follows [Semantic Versioning](https://semver.org/) and the [Keep a 
 
 ---
 
+## v1.1.2
+<sub>Released 2026-07-15 · Patch Release</sub>
+### New Features
+- VM Summary now shows every Veeam backup job protecting a VM, with a job switcher and a job count, instead of a single job.
+- VM Timeline gained a Data Protection filter, so Veeam backup activity can be viewed on its own.
+
+### 🐛 Fixed
+- Backup Protection no longer displays only one arbitrary job for a VM covered by multiple jobs, which could hide a failing backup job behind a healthy one; the panel now reflects the least-protected job.
+- Right-sizing recommendations are more accurate: a clear CPU or memory bottleneck is no longer under-scored by the other, idle metric, and memory-reduction suggestions are sized to real peak usage to avoid swap or out-of-memory risk.
+- VM configuration history no longer reports misleading "provisioned storage grew" entries that came from internal storage accounting rather than an actual disk change.
+- Fixed a crash that could occur when opening the Executive Summary and Retired VM Candidates reports.
+- The configuration history pagination control is now hidden when there is only a single page of changes.
+- Backup Servers: the add button is now labeled "Add Backup Server" and placed above the list; unified the Add button appearance across the Environments, Assets and Backup Servers pages.
+
+  
 ## v1.1.1
 <sub>Released 2026-07-15 · Patch Release</sub>
 
